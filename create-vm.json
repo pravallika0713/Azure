@@ -137,7 +137,7 @@
                 "osProfile": {
                     "computerName": "ubuntuVM1",
                     "adminUsername": "azureuser",
-                    "adminPassword": "pravallika@123"
+                    "adminPassword": "************"
                 },
                 "storageProfile": {
                     "imageReference": {
